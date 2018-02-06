@@ -1,8 +1,8 @@
 #include "bits/stdc++.h"
 using namespace std;
  
-const int mod =1e9+7;
-const int N =1000001;
+const int mod =1e9+7 ;
+const int N =1000002;
 typedef long long ll;
 char a[30005];
 struct node
